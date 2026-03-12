@@ -1,4 +1,4 @@
-# 📚 Dev Knowledge Base
+# 📚 MISC
 
 Repositório pessoal utilizado para armazenar **documentações, anotações, snippets de código, ferramentas e materiais úteis** para programação e desenvolvimento de software.
 
@@ -54,4 +54,4 @@ Este repositório é atualizado continuamente conforme novos conteúdos, soluç�
 
 Desenvolvido e mantido por **[Rafael Tunes Mathiensen]**
 
-📎 GitHub: https://github.com/seu-usuario
+📎 GitHub: https://github.com/Rafael-Tunes-Mathiensen
