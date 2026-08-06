@@ -1,0 +1,3 @@
+Comando padrão para criar um ambiente docker:
+docker run --name MyLocalSQL -e MYSQL_ROOT_PASSWORD=Admin@123! -p 3306:3306 -d mysql:latest
+  
