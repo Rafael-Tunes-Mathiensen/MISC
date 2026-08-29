@@ -1,0 +1,4 @@
+interface:
+  display_name: "BidXchange Change Workflow"
+  short_description: "Padroniza mudancas, validacoes, estrutura e controle para o github do BidXchange"
+  default_prompt: "Use $bidxchange-change-workflow para implementar e validar as mudancas no BidXchange."
